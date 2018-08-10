@@ -1,0 +1,69 @@
+@charset "utf-8";
+/* CSS Document */
+
+form .all{
+	width:470px;
+	height:auto;
+	clear:both;
+	margin:5px;
+	}
+.all label{
+	clear:left;
+	float:left;
+	width:100px;
+	text-align:right;
+	font-family:"Browallia New";
+	font-size:22px;
+	margin-top:12px;
+	padding-top:2px;
+	}
+.all select{
+	clear:right;
+	float:right;
+	width:194px;
+	font-family:arial;
+	font-size:14px;
+	border:1px solid green;
+	border-radius:4px;
+	margin-top:20px;
+	margin-left:40px;
+	margin-right:150px;
+	padding:2px;
+	color:brickred;
+	height:25px;
+
+	}
+.all input{
+	clear:right;
+	float:right;
+	width:190px;
+	font-family:arial;
+	font-size:14px;
+	border:1px solid green;
+	border-radius:4px;
+	margin-top:20px;
+	margin-left:40px;
+	margin-right:150px;
+	padding:2px;
+	color:brickred;
+	height:25px;
+	}
+.all input[type=submit],input[type=button]{
+	background:orange;
+	color:black;
+	clear:right;
+	float:right;
+	height:40px;
+	width:auto;
+	font-family:"Browallia New";
+	font-size:23px;
+	border:1px solid green;
+	border-radius:4px;
+	margin-top:10px;
+	margin-bottom:5px;
+	margin-left:40px;
+	margin-right:150px;
+	padding-bottom: 3px;
+	padding-left: 4px;
+	padding-right: 4px;
+	}
